@@ -22,7 +22,17 @@ Help me transform my code into a Kiara module.
 
 - Tests
 
-1. Submit a proposition of inputs and outputs to users https://chat.openai.com/share/e02a7e10-333d-4b5a-a540-260b8f14231c
+#### 1. Inputs and Outputs identification
+
+- Assistant collects users' initial code snippet and submit a proposition of inputs and outputs identification to users. Assistant asks for users' feedback before proceeding further https://chat.openai.com/share/e02a7e10-333d-4b5a-a540-260b8f14231c
+
+#### 2. Inputs and Outputs data types
+
+#### 3. Kiara module creation
+
+#### 4. Kiara module optimization
+
+#### 5. Kiara module test writing
 
 ### Claude 3
 
