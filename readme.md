@@ -2,7 +2,7 @@ This repository gathers "context" files to configure specialised Large Language 
 
 We use the term "context" to designate files that contain model-agnostic documentation created for LLMs' configuration purposes. Such context files aim to accurately frame LLMs' scope to the tasks needed in transforming Python workflows into reusable Kiara pipelines.
 
-Mariella de Crouy Chanel (University of Luxembourg)
+Mariella de Crouy Chanel (University of Luxembourg)  
 [Sean Takats](https://github.com/stakats) (University of Luxembourg)
 
 ## Repository structure
